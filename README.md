@@ -1,3 +1,5 @@
 # Chicktoys
 squeaky rubber chicken toy android application
-coming soom in play store
+
+- application in play store :
+https://play.google.com/store/apps/details?id=com.mikkipastel.chicktoys&hl=th
